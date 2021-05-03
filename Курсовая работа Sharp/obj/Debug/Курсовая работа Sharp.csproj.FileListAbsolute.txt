@@ -1,0 +1,18 @@
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\bin\Debug\Курсовая работа Sharp.exe.config
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\bin\Debug\Курсовая работа Sharp.exe
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\bin\Debug\Курсовая работа Sharp.pdb
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.csprojAssemblyReference.cache
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая_работа_Sharp.Form1.resources
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая_работа_Sharp.Properties.Resources.resources
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая_работа_Sharp.Resource1.resources
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.csproj.GenerateResource.cache
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.csproj.CoreCompileInputs.cache
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.exe
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.pdb
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая_работа_Sharp.Form2.resources
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\bin\Debug\Interop.WMPLib.dll
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Interop.WMPLib.dll
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая работа Sharp.csproj.ResolveComReference.cache
+C:\Users\zador\source\repos\Курсовая работа Sharp\Курсовая работа Sharp\obj\Debug\Курсовая_работа_Sharp.Form3.resources
